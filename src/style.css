@@ -1,0 +1,10 @@
+.header {
+  font-size: 36px;
+  font-weight: bold;
+  color: green;
+}
+.content p {
+  font-size: 16px;
+  line-height: 30px;
+  color: #ff3e51;
+}
